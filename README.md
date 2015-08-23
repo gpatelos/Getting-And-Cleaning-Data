@@ -18,15 +18,22 @@ The source data contains the following files relevant to this analysis. (Additio
 
 ### Descriptive data of the features, subjects and activities.
 activity_labels.txt
+
 features.txt
+
 features_info.txt
 
 ### Collected data and associated identifiers
 test/X_test.txt
+
 test/y_test.txt
+
 test/subject_test.txt
+
 train/X_train.txt
+
 train/y_train.txt
+
 train/subject_train.txt
 
 For a complete description of the analysis, collected data and features please see codebook.md
