@@ -1,4 +1,4 @@
-#Source data
+##Source data
 
 
 The data was collected from a Samsung Galaxy II phone worn on the waist of 30 volunteers.  Volunteers were asked to 
@@ -14,15 +14,15 @@ Feature data was collected from the 30 subject using the devices accelerometer a
 
 For details on the specific methods of feature collection refer to the README.txt included in the data download (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-# Objectives and manipulation
+## Objectives and manipulation
 
 To create a script called run_analysis.R that does the following.
  
-## 1. Merges the training and the test sets to create one data set.
-## 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-## 3. Uses descriptive activity names to name the activities in the data set
-## 4. Appropriately labels the data set with descriptive variable names. 
-## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names. 
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The data was merged from the following files
 

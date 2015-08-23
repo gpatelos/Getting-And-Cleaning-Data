@@ -1,4 +1,4 @@
-# Background 
+## Background 
 
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to below represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
@@ -6,7 +6,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 (adapted from https://www.coursera.org/course/getdata)
 
-# Introduction
+## Introduction
 
 This project is an example of cleaning and working with a dataset. 
 
@@ -29,4 +29,4 @@ The source data contains the following files relevant to this analysis. (Additio
 - train/y_train.txt
 - train/subject_train.txt
 
-####For a complete description of the analysis, collected data and features please see codebook.md
+####For a complete description of the analysis, collected data and features please see codebook.md, also in this repository
